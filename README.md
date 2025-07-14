@@ -17,7 +17,7 @@
 - Firebase
 
 ### 💼 Projects:
-- 📂 All my work: [[Connect on LinkedIn](https://www.linkedin.com/in/mahira-noor-89783b363)
+- 📂 All my work: [Connect on LinkedIn](https://www.linkedin.com/in/mahira-noor-89783b363)
 
 ### 📫 How to reach me:
 - 📧 Email: [maheera.noor08gmail.com](mailto:maheera.noor08@gmail.com)
