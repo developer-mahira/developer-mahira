@@ -20,7 +20,7 @@
 - 📂 All my work: [Connect on LinkedIn](https://www.linkedin.com/in/mahira-noor-developer08)
 
 ### 📫 How to reach me:
-- 📧 Email: [maheera.noor08gmail.com](mailto:mahiranoor.088@gmail.com)
+- 📧 Email: [mahiranoor.088gmail.com](mailto:mahiranoor.088@gmail.com)
 - 
 ### 🚀 Skills Progress
 **HTML** ██████████ 90%  
