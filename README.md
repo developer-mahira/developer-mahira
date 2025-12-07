@@ -22,19 +22,6 @@
 ### 📫 How to reach me:
 - 📧 Email: [mahiranoor.088gmail.com](mailto:mahiranoor.088@gmail.com)
 - 
-### 🚀 Skills Progress
-**HTML** ██████████ 90%  
-**CSS** █████████ 80%  
-**JavaScript** ████████ 75%  
-**React** ███████ 70%
-
-## 🔥 GitHub Stats
-
-![Mahira's GitHub Stats](https://github-readme-stats.vercel.app/api?username=developer-mahira&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=developer-mahira&layout=compact&theme=tokyonight)
-
----
 
 ## ✨ Tech I Use
 
